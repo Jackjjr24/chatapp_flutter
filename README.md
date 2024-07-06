@@ -14,11 +14,6 @@ This Flutter project is a mobile application that allows users to engage in real
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Firebase**: Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
 
-## Screenshots
-
-![Screenshot 1](/screenshots/s1.png)
-![Screenshot 2](/screenshots/s2.png)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
